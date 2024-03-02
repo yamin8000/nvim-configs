@@ -13,7 +13,6 @@ return {
 				null_ls.builtins.formatting.isort,
 				null_ls.builtins.formatting.blade_formatter,
 				null_ls.builtins.diagnostics.ktlint,
-				null_ls.builtins.diagnostics.npm_groovy_lint,
 				null_ls.builtins.diagnostics.markdownlint,
 				null_ls.builtins.diagnostics.phpcs,
 				null_ls.builtins.diagnostics.phpstan,
