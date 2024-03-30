@@ -7,4 +7,3 @@ vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>q", ":q!<CR>")
 vim.keymap.set("n", "<leader>x", ":Ex<CR>")
 vim.keymap.set("n", "<leader>git", ":G<CR>")
-
